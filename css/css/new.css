@@ -628,6 +628,82 @@ input.exp {
         margin-left: -225px;
     }
 
+.oiralumrof {
+    padding: 60px 0; 
+    height: 670px;
+}
+
+.nottub {
+    cursor : pointer
+}
+
+@media (min-width: 1920px) {
+    input.exp {
+        margin-top: 20px;
+    }
+    .serbmon {
+        margin-top: 20px;
+        margin-left: -152px;
+    }
+    .sedadilibah {
+        margin-top: 20px;
+        margin-left: -212px;
+    }
+    .noicacifitnedi {
+        margin-top: 20px;
+        margin-left: -216px;
+    }
+    .amoidi {
+        margin-top: 20px;
+        margin-left: -55px;
+    }
+    .liame {
+        margin-top: 20px;
+        margin-left: -40px;
+    }
+    .onofelet {
+        margin-top: 20px;
+        margin-left: -144px;
+    }
+    .oidar {
+        margin-left: 18px;
+        margin-top: 16px;
+    }
+    .oidar2 {
+        margin-top: 16px;
+        margin-left: 10px;
+    }
+    .daduic {
+        margin-top: -48px;
+    }
+    .odatse {
+        margin-top: 20px;
+        margin-left: -178px;
+    }
+    .kcehc {
+        margin-left: 32px;
+    }
+    .otad {
+        margin-top: -10px;
+    }
+    .oiralumrof {
+        padding: 70px 0;
+        height: 800px;
+    }
+    .nottub {
+        margin-top: 50px;
+        margin-left: -35px;
+    }
+    form#frmcontact.form-validation {
+        margin-top: -22px;
+        border: 1.5px solid red;
+        padding-top: 7px;
+        padding-bottom: 0px;
+        padding: 32px;
+        border-radius: 26px;
+    }
+}
+
 
 @media (max-width: 425px) {
     input.form-control {
