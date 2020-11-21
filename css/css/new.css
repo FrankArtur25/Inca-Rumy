@@ -704,6 +704,11 @@ input.exp {
     }
 }
 
+input::placeholder {
+    color: gray !important;
+    opacity: 0.7 !important;
+}
+
 
 @media (max-width: 425px) {
     input.form-control {
